@@ -1,0 +1,22 @@
+	pwm 	dir
+Fl-	13	12
+Fr-	11	10
+Bl-	9 	8
+Br-	7	6
+
+(Analog )Edf-	3
+
+Ultrasonic-(trig) 5   (echo) 17
+
+ps2 pins-- (clock,command,Attention,data,pressure,rumble)  (52,51,53,50,true,true)
+
+(Hearculus motor driver)( pwm any digital pin for maximum speed)
+linear actuator--- (extentend)  	dir-25 && 33
+			(up)		dir-37 && 45
+
+
+Line following sensor(LSA08)
+
+digital pin(Junction Pulse)--49
+analog pin(analog input)--A1
+
